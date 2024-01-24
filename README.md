@@ -8,6 +8,23 @@ Hi there! 👋 I am pursuing a Master’s in Engineering, specializing in Softwa
 
 📧 To get in touch with me, you can reach me via email at asing923@uwo.ca or connect with me on LinkedIn: https://www.linkedin.com/in/akshpreet-singh/.  
 
+## Projects
+
+- **Track Verse**
+- **Pokedex Gallery**
+- **Westernify Music Library**
+- **Calculator Application**
+- **Sketch Pad Studio**
+- **Sign Sense AI Net**
+- **Business Insights Analytical Hub**
+- **Covid 19 Spread Prediction**
+- **Brain Tumor Classification**
+
+<!-- ## Certifications -->
+
+
+
+
 <!--🌱 During my free time, I engage in problem-solving activities on online forums such as Hacker Rank and LeetCode. -->
 
 <!--
