@@ -10,6 +10,7 @@ Hi there! 👋 I am pursuing a Master’s in Engineering, specializing in Softwa
 
 ## Projects
 
+- **Blog App Backend**
 - **Track Verse**
 - **Pokedex Gallery**
 - **Westernify Music Library**
