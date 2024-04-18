@@ -1,4 +1,4 @@
-Hi there! 👋 I am pursuing a Master’s in Engineering, specializing in Software Engineering from University of Western Ontario, London, CA. The focus of my program revolves around System Design/Architecture, Full Stack Web Application Development and Software Engineering. 
+<!--Hi there! 👋 I am pursuing a Master’s in Engineering, specializing in Software Engineering from University of Western Ontario, London, CA. The focus of my program revolves around System Design/Architecture, Full Stack Web Application Development and Software Engineering. 
 
 📚 Here are some of the courses I have taken: Web Application Development, Data Management & Application, Advanced Databases, Cloud Computing, Data Analytics Foundations, Machine Learning, Introduction to Hacking, Software Engineering for HCI Design, Project Management (ELI), and Risk Assessment and Management (ELI). 
 
